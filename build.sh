@@ -9,8 +9,8 @@ mkdir /OUT
 mount /OUT
 
 export KBUILD_BUILD_VERSION=1
-export KBUILD_BUILD_USER=JavaShin-X
-export KBUILD_BUILD_HOST=WrongDevice
+export KBUILD_BUILD_USER=Nova
+export KBUILD_BUILD_HOST=Paradaisu
 export KBUILD_BUILD_TIMESTAMP="$(date -d "@$(git --no-pager show -s --format=%ct)")"
 
 
